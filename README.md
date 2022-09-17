@@ -5,7 +5,7 @@ You can add a name (required) , a date (optional), and images (optional alongsid
 ![image](https://i.imgur.com/eqHjbIe.png)<br />
 <p align="center">
 You can remove an image by clicking on it<br />
-![image](https://i.imgur.com/01GnpKx.png)<br />
+<img src="https://i.imgur.com/01GnpKx.png" /><br />
 </p>
 You can change the order of the list<br />
 ![image](https://i.imgur.com/Dxu6uQi.png)<br />
