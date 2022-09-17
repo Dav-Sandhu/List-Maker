@@ -6,9 +6,9 @@ You can add a name (required) , a date (optional), and images (optional alongsid
 <p align="center">
 You can remove an image by clicking on it<br />
 ![image](https://i.imgur.com/01GnpKx.png)<br />
+</p>
 You can change the order of the list<br />
 ![image](https://i.imgur.com/Dxu6uQi.png)<br />
 You can save lists to your local storage and the browser will remember them when you return<br />
 ![image](https://i.imgur.com/mVjDOXz.png)<br />
 And you can do much more!
-</p>
