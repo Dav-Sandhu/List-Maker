@@ -9,3 +9,4 @@ You can change the order of the list<br />
 ![image](https://i.imgur.com/Dxu6uQi.png)<br />
 You can save lists to your local storage and the browser will remember them when you return<br />
 ![image](https://i.imgur.com/mVjDOXz.png)<br />
+And you can do much more!
