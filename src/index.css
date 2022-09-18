@@ -504,3 +504,9 @@ form{
     margin-bottom: 1px;
   }
 }
+@media (min-width: 1400px){
+	.rank{
+		height: 6rem;
+		width: 6rem;
+	}
+}
